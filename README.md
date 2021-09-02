@@ -7,12 +7,13 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Emmanuel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Emmanuel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Emmanuel-bt" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png">
   <img align="center" alt="Emmanuel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Emmanuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Emmanuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Emmanuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Emmanuel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Emmanuel-mysql" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
+  <img align="center" alt="Emmanuel-vba" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vba_icon_130097.png">
   <img align="right" alt="Emmanuel-ironman" height="120" width="120" src="https://media3.giphy.com/media/3oEduEIoSNmJXWQTWU/giphy.gif?"></a></p>
 </div>
 
